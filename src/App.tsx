@@ -299,7 +299,7 @@ function App() {
 
           <div className="bg-white rounded-2xl shadow-2xl overflow-hidden">
             <div className="bg-gradient-to-r from-blue-600 to-indigo-700 p-8 text-center text-white">
-              <h3 className="text-2xl font-bold mb-2">Premium Bundle</h3>
+              <h3 className="text-2xl font-bold mb-2">Premium Educational Bundle</h3>
               <div className="text-5xl font-bold mb-2">LKR 3,000</div>
               <p className="text-blue-100">One-time payment • Lifetime Access</p>
             </div>
