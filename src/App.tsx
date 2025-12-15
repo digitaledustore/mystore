@@ -224,18 +224,18 @@ function App() {
       </section>
 
       {/* Free Gift Bundle Section */}
-      <section className="py-20 px-4 bg-gradient-to-br from-cyan-400 via-blue-500 to-blue-600">
+      <section className="py-20 px-4 bg-white">
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
               🎁 Exclusive Bonus Package
             </h2>
-            <p className="text-xl text-cyan-50">
+            <p className="text-xl text-gray-600">
               Get these premium tools absolutely FREE with your subscription!
             </p>
           </div>
 
-          <div className="bg-white rounded-2xl shadow-2xl p-8 sm:p-12">
+          <div className="bg-white rounded-2xl shadow-xl p-8 sm:p-12 border border-gray-200">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
               {/* Gift 1 */}
               <div className="text-center">
