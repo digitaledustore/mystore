@@ -94,10 +94,10 @@ function App() {
             Premium Educational Bundle
           </h1>
           <p className="text-xl sm:text-2xl text-blue-100 mb-4">
-            Unlimited learning from world's top universities.
+            Ready to transform your career?
           </p>
           <p className="text-lg text-blue-200 mb-10 max-w-3xl mx-auto">
-            Ready to transform your career? With <strong>Coursera Plus</strong>, you get unlimited access to thousands of courses, professional certificates, and exclusive resources. Everything you need to succeed is now available in one powerful, cost-effective plan.
+            With <strong>Coursera Plus</strong>, you get unlimited access to thousands of courses, professional certificates, and exclusive resources. Everything you need to succeed is now available in one powerful, cost-effective plan.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button
