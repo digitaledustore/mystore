@@ -307,32 +307,53 @@ function App() {
                 {/* What's Included */}
                 <div>
                   <h4 className="text-xl font-bold text-gray-900 mb-4 border-b-2 border-blue-600 pb-2">
-                    What's Included
+                    What's Included (Coursera Plus)
                   </h4>
-                  <ul className="space-y-3">
-                    <li className="flex items-start">
-                      <span className="text-green-500 mr-2">✓</span>
-                      <span className="text-gray-700">10,000+ Online Courses</span>
+                  <ul className="space-y-4">
+                    <li>
+                      <div className="flex items-start">
+                        <span className="text-green-500 mr-2 mt-0.5">✓</span>
+                        <div>
+                          <div className="text-gray-900 font-semibold">1 Year Coursera Plus Access</div>
+                          <div className="text-gray-600 text-sm ml-2">• Activated directly on your own email</div>
+                        </div>
+                      </div>
                     </li>
-                    <li className="flex items-start">
-                      <span className="text-green-500 mr-2">✓</span>
-                      <span className="text-gray-700">Professional Certificates</span>
+                    <li>
+                      <div className="flex items-start">
+                        <span className="text-green-500 mr-2 mt-0.5">✓</span>
+                        <div>
+                          <div className="text-gray-900 font-semibold">10,000+ Courses & Specializations</div>
+                          <div className="text-gray-600 text-sm ml-2">• From top universities & global companies</div>
+                        </div>
+                      </div>
                     </li>
-                    <li className="flex items-start">
-                      <span className="text-green-500 mr-2">✓</span>
-                      <span className="text-gray-700">University Course Access</span>
+                    <li>
+                      <div className="flex items-start">
+                        <span className="text-green-500 mr-2 mt-0.5">✓</span>
+                        <div>
+                          <div className="text-gray-900 font-semibold">Sharable Certificates</div>
+                          <div className="text-gray-600 text-sm ml-2">• Industry-recognized certificates for completed courses</div>
+                        </div>
+                      </div>
                     </li>
-                    <li className="flex items-start">
-                      <span className="text-green-500 mr-2">✓</span>
-                      <span className="text-gray-700">Mobile & Desktop Access</span>
+                    <li>
+                      <div className="flex items-start">
+                        <span className="text-green-500 mr-2 mt-0.5">✓</span>
+                        <div>
+                          <div className="text-gray-900 font-semibold">Private Coursera Account</div>
+                          <div className="text-gray-600 text-sm ml-2">• 100% personal access (no shared logins)</div>
+                        </div>
+                      </div>
                     </li>
-                    <li className="flex items-start">
-                      <span className="text-green-500 mr-2">✓</span>
-                      <span className="text-gray-700">Unlimited Learning</span>
-                    </li>
-                    <li className="flex items-start">
-                      <span className="text-green-500 mr-2">✓</span>
-                      <span className="text-gray-700">Career Support Resources</span>
+                    <li>
+                      <div className="flex items-start">
+                        <span className="text-green-500 mr-2 mt-0.5">✓</span>
+                        <div>
+                          <div className="text-gray-900 font-semibold">Cheapest Price in the Market</div>
+                          <div className="text-gray-600 text-sm ml-2">• Best value compared to official pricing</div>
+                        </div>
+                      </div>
                     </li>
                   </ul>
                 </div>
